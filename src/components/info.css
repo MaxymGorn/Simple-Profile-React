@@ -1,0 +1,117 @@
+body{
+    background: #282828;
+    font-family: tahoma;
+    text-align: justify;
+    overflow: hidden;
+
+}
+
+ .triangle-right{
+    margin-top: 95px;
+    width: 0;
+    height: 0;
+    border-top: 259px solid transparent;
+    border-left: 470px solid #d6c6b2;
+    border-bottom: 259px solid transparent;
+
+
+}
+
+.triangle-right img{
+    position: absolute;
+    left: -1px;
+    top: 81px;
+    width: 74%;
+
+}
+
+.info{
+    padding-top: 10%;
+}
+
+ .p-first{
+    margin-bottom: 30px;
+}
+
+
+ h2{
+    margin-bottom: 47px;
+    margin-top: 12px;
+
+}
+
+
+.social-link-text{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.about-link{
+    padding-left: 0px;
+}
+
+ .about-link li{
+    display: inline-block;
+     color: white;
+}
+ul li::before {
+    content: "✅";
+    display: inline-block;
+    margin-right: 0.2rem;
+    margin-left: 1rem;
+}
+
+ .about-link li a i{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #d6c6b2;
+    margin-right: 10px;
+    font-size: 22px;
+    color: white;
+    transition: all .3s;
+}
+
+
+.about-link li a i:hover{
+    color: #222222;
+    background: #d6c6b2;
+    border-color: #d6c6b2;
+
+}
+
+.about-img{
+    position: relative;
+
+}
+
+.about-img{
+    position: relative;
+
+}
+
+ .about-img .man{
+    position: absolute;
+    bottom: 161px;
+    top: 12px;
+    left: -2px;
+
+}
+
+
+
+
+.text-white{
+    color: #ffffff;
+}
+
+
+p{
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 24px;
+    color: #d6c6b2;
+}
+
