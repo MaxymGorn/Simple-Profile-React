@@ -1,4 +1,4 @@
-# Simple profile-project
+# Simple profile-project with Webpack and plugin Webpack Bundle Analyzer 
 
 ## Building and running on localhost
 
