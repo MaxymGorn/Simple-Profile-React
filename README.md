@@ -8,10 +8,11 @@ First install dependencies:
 npm install
 ```
 
-To run in hot module reloading mode (http://localhost:3000/, default port 3000; If you want to change the port, you need to open the file webpack.config.js and find "port" and change its value in the module settings -> devServer -> port):
+To run in hot module reloading mode (http://localhost:3000/, default port 3000):
 
 ```sh
 npm start
+If you want to change the port, you need to open the file webpack.config.js and find "port" and change its value in the module settings -> devServer -> port
 ```
 
 To create a production build:
