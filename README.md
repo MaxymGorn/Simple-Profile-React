@@ -8,7 +8,7 @@ First install dependencies:
 npm install
 ```
 
-To run in hot module reloading mode:
+To run in hot module reloading mode (http://localhost:3000/, default port 3000):
 
 ```sh
 npm start
